@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+94
+'Este programa fue diseñado por Andres Nicolas Morales y permite dar el mayor de tres numeros'
+4
+1
+22
+'ingrese tres numeros'
+5
+1
+5
+A,B,C
+7
+0
+1
+11
+A=B and B=A
+7
+0
+1
+11
+A>B and A>B
+7
+0
+1
+11
+B>A and B>C
+4
+1
+16
+'el mayor es', C
+13
+4
+1
+17
+'el mayor es:', B
+13
+13
+4
+1
+17
+'el mayor es:', A
+13
+13
+4
+1
+13
+'Son iguales'
+13
+1

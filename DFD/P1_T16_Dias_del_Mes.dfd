@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+108
+'Esta aplicación determina el número de dias del mes ingresado por número. Hecha por Andres Nicolas Morales'
+4
+1
+34
+'Digite el número del mes deseado'
+5
+1
+3
+mes
+7
+0
+1
+20
+mes <= 0 or mes > 12
+7
+0
+1
+75
+mes = 1 or mes = 3 or mes = 5 or mes = 7 or mes = 8 or mes = 10 or mes = 12
+7
+0
+1
+42
+mes = 4 or mes = 6 or mes = 9 or mes = 11 
+4
+1
+38
+'Este mes tiene 28/29 dias (febrero) '
+13
+4
+1
+24
+'Este mes tiene 30 dias'
+13
+13
+4
+1
+24
+'Este mes tiene 31 dias'
+13
+13
+4
+1
+54
+'Entrada no valida ( el mes debe estar entre 1 y 12) '
+13
+1

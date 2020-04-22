@@ -1,0 +1,67 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+106
+"Este programa esta diseñado por Andres Nicolasl  y sirve para sumar y promediar la cantidad de N numeros"
+6
+2
+4
+Suma
+1
+0
+8
+Promedio
+1
+0
+5
+1
+1
+N
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+4
+1
+44
+"por favor infrese el valor de N numeros", i
+5
+1
+6
+NUMERO
+6
+1
+4
+Suma
+11
+suma+NUMERO
+10
+6
+1
+8
+promedio
+6
+Suma/N
+4
+1
+25
+"la suma total es:", Suma
+4
+1
+27
+"El promedio es:", promedio
+1

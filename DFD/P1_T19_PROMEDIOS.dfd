@@ -1,0 +1,67 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+105
+"este programa fue diseñaado por nicolas morales: sirve para sumar y promediar la cantidad por n numeros"
+6
+2
+4
+SUMA
+1
+0
+8
+PROMEDIO
+1
+0
+5
+1
+1
+N
+8
+1
+1
+i
+1
+1
+0
+1
+1
+N
+1
+1
+1
+4
+1
+44
+"POR FAVOR INGRESE EL VALOR DE N NUMEROS", i
+5
+1
+6
+NUMERO
+6
+1
+4
+SUMA
+11
+SUMA+NUMERO
+10
+6
+1
+8
+PROMEDIO
+6
+SUMA/N
+4
+1
+27
+"LA SUMA TOTAL ES:=" , SUMA
+4
+1
+33
+"EL PROMEDIO TOTAL ES:" ,PROMEDIO
+1

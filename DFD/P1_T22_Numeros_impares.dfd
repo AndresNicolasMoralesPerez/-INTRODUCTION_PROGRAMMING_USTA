@@ -1,0 +1,42 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+73
+'este programa muestra los numeros impar del 11 al 99, ingrese el numero'
+8
+1
+1
+i
+1
+2
+11
+1
+2
+99
+1
+1
+1
+6
+1
+7
+residuo
+7
+i mod 2
+7
+0
+1
+9
+residuo=1
+13
+4
+1
+26
+'el numero', i,' es impar'
+13
+10
+1
