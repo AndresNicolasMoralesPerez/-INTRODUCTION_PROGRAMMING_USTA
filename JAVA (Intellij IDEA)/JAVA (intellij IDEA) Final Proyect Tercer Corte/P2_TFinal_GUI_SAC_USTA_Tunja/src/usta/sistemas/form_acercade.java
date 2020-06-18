@@ -16,8 +16,12 @@ public class form_acercade extends JFrame {
         panel_superior.setBackground(Color.black);
         //panel central
         JPanel panel_central = new JPanel();
-        JLabel label_maker = new JLabel("This software was make by Andres Nicolas Morales Perez", SwingConstants.CENTER);
-        label_maker.setFont(new Font("Cooper Black", 0, 20));
+        JLabel label_maker = new JLabel("<html>This software was make by Andres Nicolas Morales Perez,<br/>" +
+                " im student of Santo tomas University,<br/>" +
+                " Im sistems eingineering in process<html><br/>" +
+                "e-mail: andres.moralesp@usantoto.edu.co<br/>" +
+                "                      :D                    ", SwingConstants.CENTER);
+        label_maker.setFont(new Font("Cooper Black", 0, 30));
         label_maker.setBackground(Color.orange);
         panel_central.setBackground(Color.orange);
         panel_central.add(label_maker);
@@ -28,7 +32,7 @@ public class form_acercade extends JFrame {
 
         setVisible(true);
         setResizable(false);
-        setBounds(0, 0, 600, 400);
+        setBounds(0, 0, 900, 300);
         setLocationRelativeTo(null);
     }
 }

@@ -18,9 +18,10 @@ public class form_principal extends JFrame {
         this.getContentPane().setBackground(Color.black);
         JLabel Label_central = new JLabel();
         Label_central.setIcon(new ImageIcon("https://es.wikipedia.org/wiki/Universidad_Santo_Tom%C3%A1s_(Colombia)#/media/Archivo:EscudoUsta.png", String.valueOf(SwingConstants.CENTER)));
+        add(Label_central);
         //        //panel izquierdo (donde van a estar los botones)
         JPanel panel_izquierdo = new JPanel();
-        panel_izquierdo.setLayout(new GridLayout(5, 1));
+        panel_izquierdo.setLayout(new GridLayout(6, 1));
         this.getContentPane().setBackground(Color.black);
         //creamos el primer boton
         JButton boton_formulario1 = new JButton("New Student");
@@ -47,7 +48,19 @@ public class form_principal extends JFrame {
             }
         });
         panel_izquierdo.add(boton_formulario2);
-
+        //creamos el tercer boton
+        JButton boton_formulario3 = new JButton("New Sectional");
+        boton_formulario3.setBounds(0, 0, 50, 30);
+        boton_formulario3.setFont(new Font("Cooper Black", 0, 20));
+        boton_formulario3.setBackground(Color.orange);
+        boton_formulario3.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent actionEvent) {
+                //Aqui va el boton de el primer formulario.
+                form_add_sectionals form_add_sectionals = new form_add_sectionals();
+            }
+        });
+        panel_izquierdo.add(boton_formulario3);
         //creamos el tercer boton (sectional).
         JButton boton_sectional = new JButton("Sectional");
         boton_sectional.setBounds(0, 0, 50, 15);
@@ -62,14 +75,14 @@ public class form_principal extends JFrame {
         panel_izquierdo.add(boton_sectional);
 
         //creamos el cuarto boton (sectional list).
-        JButton boton_sectional_list = new JButton("Sectional List");
-        boton_sectional_list.setBounds(0, 0, 50, 15);
+        JButton boton_sectional_list = new JButton("List all Sectionals");
+        boton_sectional_list.setBounds(0, 0, 80, 15);
         boton_sectional_list.setFont(new Font("Cooper Black", 0, 20));
         boton_sectional_list.setBackground(Color.orange);
         boton_sectional_list.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent actionEvent) {
-                form_sectional_list form_sectional_list1 = new form_sectional_list();
+                f_abrir_form_show_all_data_sectionals(actionEvent);
             }
         });
         panel_izquierdo.add(boton_sectional_list);
@@ -108,4 +121,7 @@ public class form_principal extends JFrame {
         form_show_all_student form_show_all_student1 = new form_show_all_student(this);
     }
 
+    private void f_abrir_form_show_all_data_sectionals(java.awt.event.ActionEvent evt) {
+        form_show_all_data_sectionals file_data_sectional1 = new form_show_all_data_sectionals(this);
+    }
 }

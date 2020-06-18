@@ -20,6 +20,11 @@
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="usta.sistemas" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="usta.sistemas.Main" />
@@ -51,22 +56,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1321" height="207" key="GridCell.Tab.0.bottom" timestamp="1592447769528">
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592502626924">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1321" height="207" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592447769528" />
-    <state width="1321" height="207" key="GridCell.Tab.0.center" timestamp="1592447769528">
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1592502626924" />
+    <state width="1321" height="207" key="GridCell.Tab.0.bottom" timestamp="1592503203381">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1321" height="207" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592447769528" />
-    <state width="1321" height="207" key="GridCell.Tab.0.left" timestamp="1592447769528">
+    <state width="1321" height="207" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592503203381" />
+    <state width="1321" height="207" key="GridCell.Tab.0.center" timestamp="1592503203380">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1321" height="207" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592447769528" />
-    <state width="1321" height="207" key="GridCell.Tab.0.right" timestamp="1592447769528">
+    <state width="1321" height="207" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592503203380" />
+    <state width="1321" height="207" key="GridCell.Tab.0.left" timestamp="1592503203380">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1321" height="207" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592447769528" />
+    <state width="1321" height="207" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592503203380" />
+    <state width="1321" height="207" key="GridCell.Tab.0.right" timestamp="1592503203380">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="207" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592503203380" />
+    <state x="338" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1592495452240">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="338" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1592495452240" />
     <state x="327" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1592432176018">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
