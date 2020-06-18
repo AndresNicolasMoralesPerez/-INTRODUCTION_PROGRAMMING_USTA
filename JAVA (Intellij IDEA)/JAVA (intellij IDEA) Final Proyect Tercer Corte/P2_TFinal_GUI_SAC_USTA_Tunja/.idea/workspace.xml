@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="850d3fc8-406b-4de3-b103-df47ea2d42ef" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dSLRPhxtfrG2FLNI5BeqPTF7kI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="usta.sistemas.Main" />
+      <module name="P2_TFinal_GUI_SAC_USTA_Tunja" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="850d3fc8-406b-4de3-b103-df47ea2d42ef" name="Default Changelist" comment="" />
+      <created>1592413538888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592413538888</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1321" height="207" key="GridCell.Tab.0.bottom" timestamp="1592447769528">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="207" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592447769528" />
+    <state width="1321" height="207" key="GridCell.Tab.0.center" timestamp="1592447769528">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="207" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592447769528" />
+    <state width="1321" height="207" key="GridCell.Tab.0.left" timestamp="1592447769528">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="207" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592447769528" />
+    <state width="1321" height="207" key="GridCell.Tab.0.right" timestamp="1592447769528">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="207" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592447769528" />
+    <state x="327" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1592432176018">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="327" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1592432176018" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1592416889873">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1592416889873" />
+  </component>
+</project>
